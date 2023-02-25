@@ -1,0 +1,16 @@
+#filter {
+	display: flex;
+	flex-wrap: wrap;
+	height: 50%;
+	justify-content: center;
+	align-items: center;
+}
+
+#filter-label {
+	width: 100%;
+	text-align: center;
+}
+
+#filter-inputs {
+	height: 30px;
+}

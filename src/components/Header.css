@@ -1,0 +1,16 @@
+#header {
+	margin-top: 1rem;
+	display: flex;
+	width: 100%;
+	justify-content: flex-end;
+	align-items: center;
+	height: 15%;
+	color: black;
+	margin-right: 1rem;
+	position: fixed;
+}
+
+.header-div {
+	width: 8%;
+	color: white;
+}

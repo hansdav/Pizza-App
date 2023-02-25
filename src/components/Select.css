@@ -1,0 +1,18 @@
+.filter-selections {
+	width: 150px;
+	height: 40px;
+	line-height: 100px;
+}
+
+#select {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	height: 50%;
+}
+
+#select-label {
+	width: 100%;
+	text-align: center;
+}
